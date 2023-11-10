@@ -1,0 +1,14 @@
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\bin\Debug\net7.0\Zoo_Project.exe
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\bin\Debug\net7.0\Zoo_Project.deps.json
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\bin\Debug\net7.0\Zoo_Project.runtimeconfig.json
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\bin\Debug\net7.0\Zoo_Project.dll
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\bin\Debug\net7.0\Zoo_Project.pdb
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\Zoo_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\Zoo_Project.AssemblyInfoInputs.cache
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\Zoo_Project.AssemblyInfo.cs
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\Zoo_Project.csproj.CoreCompileInputs.cache
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\Zoo_Project.dll
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\refint\Zoo_Project.dll
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\Zoo_Project.pdb
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\Zoo_Project.genruntimeconfig.cache
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\ref\Zoo_Project.dll

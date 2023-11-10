@@ -1,0 +1,14 @@
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\bin\Debug\net7.0\First.exe
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\bin\Debug\net7.0\First.deps.json
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\bin\Debug\net7.0\First.runtimeconfig.json
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\bin\Debug\net7.0\First.dll
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\bin\Debug\net7.0\First.pdb
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\First.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\First.AssemblyInfoInputs.cache
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\First.AssemblyInfo.cs
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\First.csproj.CoreCompileInputs.cache
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\First.dll
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\refint\First.dll
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\First.pdb
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\First.genruntimeconfig.cache
+D:\BackEnd_Homework\BackEnd_HomeWork\ConsoleApp1\obj\Debug\net7.0\ref\First.dll
